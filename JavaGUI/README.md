@@ -61,4 +61,4 @@ Project Structure
 
 ---
 
-This project is build under one day with the java netbean and SQL data base. This one day project build is made possible by java netbean's easy visual UI design which helps to design great looking UI with less time.
+This project is build under one day with the java netbean and SQL data base. This one day project build is made possible by java netbean's easy visual UI design which helps to design great looking UI with less time and I am already familiarized in the programming part of this project.
